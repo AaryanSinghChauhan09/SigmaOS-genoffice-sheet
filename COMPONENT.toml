@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-genoffice-sheet"
+version = "0.1.0"
+category = "productivity"
+description = "SigmaOS GenOffice — Spreadsheet component"
